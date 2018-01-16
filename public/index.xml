@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mili&#39;s Storys</title>
+    <link>https://5imili.github.io/</link>
+    <description>Recent content on Mili&#39;s Storys</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>frank@linux.com (555iMili)</managingEditor>
+    <webMaster>frank@linux.com (555iMili)</webMaster>
+    <lastBuildDate>Tue, 16 Jan 2018 13:53:54 +0800</lastBuildDate>
+    
+	<atom:link href="https://5imili.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://5imili.github.io/about/</link>
+      <pubDate>Tue, 16 Jan 2018 13:53:54 +0800</pubDate>
+      <author>frank@linux.com (555iMili)</author>
+      <guid>https://5imili.github.io/about/</guid>
+      <description>Info Mi lI（米粒） Beijing, China 🇨🇳 Major in Software Engineering Career xxx Contact Wechat: 东北人@帝都老友记 Email: 王宇@帝都老友记、石佛@帝都老友记、冠宇@帝都老友记 微信公众号——(xxx)</description>
+    </item>
+    
+    <item>
+      <title>米粒成长记</title>
+      <link>https://5imili.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 16 Jan 2018 11:07:41 +0800</pubDate>
+      <author>frank@linux.com (555iMili)</author>
+      <guid>https://5imili.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
