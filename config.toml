@@ -69,51 +69,27 @@ pygmentCodeFences = true
     weight = 8
 
 [[menu.main]]
-    identifier = "Books"
-    name = "Books"
+    identifier = "Programming"
+    name = "Programming"
     weight = 2
 
 [[menu.main]]
-    parent = "Books"
-    name = "Cloud Native Go"
-    url = "cloud-native-go"
+    parent = "Programming"
+    name = "GoLang"
+    url = "posts/golang"
     weight = 1
 
 [[menu.main]]
-    parent = "Books"
-    name = "Cloud Native Python"
-    url = "posts/cloud-native-python"
+    parent = "Programming"
+    name = "Python"
+    url = "posts/python"
     weight = 2
 
 [[menu.main]]
-    parent = "Books"
-    name = "Kubernetes handbook"
-    url = "kubernetes-handbook"
+    parent = "Programming"
+    name = "Java"
+    url = "posts/python"
     weight = 3
-
-[[menu.main]]
-    parent = "Books"
-    name = "Docker handbook"
-    url = "docker-handbook"
-    weight = 4
-
-[[menu.main]]
-    parent = "Books"
-    name = "Hugo Handbook"
-    url = "hugo-handbook"
-    weight = 5
-
-[[menu.main]]
-    parent = "Books"
-    name = "Istio service mesh"
-    url = "http://istio.doczh.cn"
-    weight = 6
-
-[[menu.main]]
-    parent = "Books"
-    name = "Migrating to Cloud Native"
-    url = "migrating-to-cloud-native-application-architectures"
-    weight = 7
 
 [[menu.main]]
     identifier = "Projects"
